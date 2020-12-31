@@ -46,6 +46,9 @@
 
 
 @media screen and (max-width:991px){
+     .container, .container-sm, .container-md, .container-lg {
+    max-width: 95%;
+  }
     
     .card11{
         margin-top:100px;
